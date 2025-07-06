@@ -20,11 +20,12 @@
 
 [DISCORD-AUTHOR](https://discord.gg/uMjN6xrDjM)
 
-Главное меню:
+## Главное меню:
 ![1](https://github.com/user-attachments/assets/e212ca57-bebe-4e6e-b0c8-58913e7a22ff)
 
-Раздел с очисткой:
+## Раздел с очисткой:
 ![2](https://github.com/user-attachments/assets/4a506646-802a-47e6-80ff-bc5293f88aaf)
 
-Магазин:
-![3](https://github.com/user-attachments/assets/f220b1e3-cb77-427d-9d4e-1cf8cdf109ba)
+## Магазин:
+![3](https://github.com/user-attachments/assets/120c844d-d894-4892-ad45-07e99685401d)
+
