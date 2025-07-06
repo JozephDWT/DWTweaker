@@ -7,7 +7,7 @@
 > **BASE VERSION — FREE**  
 > **VIP VERSION — 1000 RUB / $10** (PRE-ORDER)
 ---
-## приоритет поддержки: Windows 10 22H2 (Latest), Windows 11 23H2/24H2+ (Latest) только официальные образы.
+## Приоритет поддержки: Windows 10 22H2 (Latest), Windows 11 23H2/24H2+ (Latest) только официальные образы.
 
 ## ENGLISH
 
