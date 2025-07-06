@@ -5,9 +5,9 @@
 [![C#](https://img.shields.io/badge/C%23-7.3-brightgreen?logo=csharp)](https://learn.microsoft.com/dotnet/csharp/whats-new/csharp-7-3)
 
 ---
-
-> **Base Version — Free**  
-> **VIP Version — 1000 RUB / $10**
+Программа не является полностью бесплатной, в ней имеется подписка **VIP** которая открывает больше возможностей.
+> **BASE VERSION — FREE**  
+> **VIP VERSION — 1000 RUB / $10**
 
 ---
 
@@ -23,9 +23,7 @@
 
 ---
 
-## LATEST VERSION: **v5.4 (06.07.2025)**
-
-Небольшая демонстрация интерфейса программы:
+Небольшая демонстрация программы:
 
 ### Главное меню:
 ![1](https://github.com/user-attachments/assets/e212ca57-bebe-4e6e-b0c8-58913e7a22ff)
