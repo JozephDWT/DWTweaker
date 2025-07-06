@@ -19,3 +19,7 @@
 ## LATEST VERSION V.5.4 (06.07.2025)
 
 [DISCORD-AUTHOR](https://discord.gg/uMjN6xrDjM)
+
+<p align="center">
+  <img src="[https://znanierussia.ru/articles/wmedia/wikipedia/commons/1/17/Binario_cropped.png](https://cdn.discordapp.com/attachments/1351084757219409984/1391422605667598406/3.png?ex=686bd6c8&is=686a8548&hm=921107c11cf6670eb7efdd304674c709a7cd96e1814032a9ef379afaef41faca&)" alt="Binary Illustration" width="400">
+</p>
