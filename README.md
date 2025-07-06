@@ -4,6 +4,9 @@
 [![C#](https://img.shields.io/badge/C%23-7.3-brightgreen?logo=csharp)](https://learn.microsoft.com/dotnet/csharp/whats-new/csharp-7-3)
 ---
 
+BASE VERSON - FREE
+VIP VERSION -  1000 RUB/10$
+
 ## ENGLISH
 
 > DWTweaker is a program designed for basic system configuration without putting the operating system at risk. The goal of the project is to bring everything you need into a single .exe, so that after reinstalling Windows, you don’t have to manually disable the same features over and over—just do it with a single button click. The program also includes support for an app store with various tools for added convenience. The project evolves based on user feedback and suggestions, so if you have any ideas, feel free to share them with us.
