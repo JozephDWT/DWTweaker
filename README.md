@@ -1,7 +1,7 @@
 
 # DWTweaker – BETA
 
-[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.x-blueviolet)](https://dotnet.microsoft.com/)  [![C# Version](https://img.shields.io/badge/C%23-7.3-brightgreen)](https://learn.microsoft.com/dotnet/csharp/whats-new/csharp-7-3)
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.x-blueviolet)](https://dotnet.microsoft.com/)  [![C# Version](https://img.shields.io/badge/C%23-7.3-brightgreen)](https://learn.microsoft.com/dotnet/csharp/whats-new/csharp-7-3)  [![C++](https://img.shields.io/badge/C++-17-00599C)](https://en.cppreference.com/w/cpp/17)
 ---
 Программа не является полностью бесплатной, в ней имеется подписка **VIP** которая открывает больше возможностей.
 > **BASE VERSION — FREE**  
