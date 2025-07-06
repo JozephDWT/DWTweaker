@@ -6,20 +6,19 @@
 Программа не является полностью бесплатной, в ней имеется подписка **VIP** которая открывает больше возможностей.
 > **BASE VERSION — FREE**  
 > **VIP VERSION — 1000 RUB / $10** (PRE-ORDER)
+# Support Priority: Windows 10 22H2 (Latest), Windows 11 23H2/24H2+ (Latest) only official iso.
 
 ---
 
 ## ENGLISH
 
 > DWTWEAKER - a program designed for the basic configuration of the system without risk for the OS Windows itself. The purpose of the project is to collect everything you need in one .exe, so that after reinstalling Windows does not have to disable the same functions every time, but do this with one click of the button. Also support for the store of various applications, again for convenience. The project is developing on the basis of reviews and wishes of users, therefore, if you have ideas, share them with us.
-> Support Priority: Windows 10 22H2 (Latest), Windows 11 23H2/24H2+ (Latest) only official iso.
 
 ---
 
 ## РУССКИЙ
 
 > DWTweaker — программа, предназначенная для базовой настройки системы без риска для самой ОС Windows. Цель проекта — собрать всё необходимое в одном .exe, чтобы после переустановки Windows не приходилось каждый раз вручную отключать одни и те же функции, а делать это одним нажатием кнопки. Также поддержка магазина различных приложений, опять же для удобства. Проект развивается на основе отзывов и пожеланий пользователей, поэтому, если у вас есть идеи, делитесь ими с нами.
-> Приоритет поддержки: Windows 10 22H2 (Latest), Windows 11 23H2/24H2+ (Latest) только официальные образы.
 
 ---
 
