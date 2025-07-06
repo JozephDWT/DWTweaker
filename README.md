@@ -27,7 +27,7 @@ The program is not completely free, it contains a **VIP** subscription that open
 
 ---
 
-Небольшая демонстрация программы (не финально):
+Небольшая демонстрация программы (не финально):  
 A small demonstration of the program (not finally):
 
 ### Главное меню (The main menu):
