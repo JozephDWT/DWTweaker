@@ -20,6 +20,8 @@
 
 [DISCORD-AUTHOR](https://discord.gg/uMjN6xrDjM)
 
+Небольшая демонстрация программы
+
 ## Главное меню:
 ![1](https://github.com/user-attachments/assets/e212ca57-bebe-4e6e-b0c8-58913e7a22ff)
 
