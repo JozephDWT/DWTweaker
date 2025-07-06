@@ -6,9 +6,8 @@
 Программа не является полностью бесплатной, в ней имеется подписка **VIP** которая открывает больше возможностей.
 > **BASE VERSION — FREE**  
 > **VIP VERSION — 1000 RUB / $10** (PRE-ORDER)
-# Support Priority: Windows 10 22H2 (Latest), Windows 11 23H2/24H2+ (Latest) only official iso.
-
 ---
+## приоритет поддержки: Windows 10 22H2 (Latest), Windows 11 23H2/24H2+ (Latest) только официальные образы.
 
 ## ENGLISH
 
