@@ -4,8 +4,8 @@
 [![C#](https://img.shields.io/badge/C%23-7.3-brightgreen?logo=csharp)](https://learn.microsoft.com/dotnet/csharp/whats-new/csharp-7-3)
 ---
 
-BASE VERSON - FREE
-VIP VERSION -  1000 RUB/10$
+> BASE VERSON - FREE
+> VIP VERSION -  1000 RUB/10$
 
 ## ENGLISH
 
